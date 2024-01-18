@@ -1,6 +1,6 @@
-export const tareas = [ 
+export const listaDeTareas = [ 
   { 
-    id:`${1}`,
+    id:1,
     text:'Estudiar Astro', 
     completed:true,
   },
